@@ -2,7 +2,7 @@
 
 **Universidad Nacional de General Sarmiento**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et blandit eros. In hac habitasse platea dictumst. Integer blandit venenatis dui, id pellentesque ante ultrices sed. Mauris mollis ornare mattis. Quisque tristique interdum ex a pellentesque. Phasellus ut velit at turpis euismod auctor ac id neque. Fusce fringilla metus non mollis suscipit. Donec sed gravida nisl, non ultricies ex. Praesent aliquet dapibus ligula vel ornare. Fusce maximus semper elementum. Morbi molestie mi magna, vel tincidunt lorem tristique a. Nulla ut orci tortor. Vestibulum eget nibh rhoncus metus scelerisque dictum quis dictum nisi. Aenean erat leo, suscipit ut porta non, tempor et augue.
+Bienvenidos a Programación II Primer Cuatrimestre de 2018, en esta página encontrarán todo el material e información para la cursada así como 
 
 |            | Comisión 1             | Comisión 2              | Comision 3              |
 |  :---:     |    :---               |    :---                |    :---                |
@@ -20,7 +20,6 @@ __ungs.programacion2@gmail.com__
 Siempre incluir en el asunto la comisión: com1/com2/com3
 
 
-
 ## Régimen de cursada
 
 Las instancias de evaluación durante la cursada son:
@@ -34,12 +33,12 @@ Para promocionar se tiene que aprobar la cursada aprobada y tener un promedio ma
 Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Fechas importantes
-**Primer Parcial:**\
-**Segundo Parcial:**\
-**Trabajo Práctico:**\
-**Recuperatorio Primer Parcial:**\
-**Recuperatorio Segundo Parcial:**\
-**Recuperatorio Trabajo Práctico:**
+**Primer Parcial:** A definir.\
+**Segundo Parcial:** A definir.\
+**Trabajo Práctico:** A definir.\
+**Recuperatorio Primer Parcial:** A definir.\
+**Recuperatorio Segundo Parcial:** A definir.\
+**Recuperatorio Trabajo Práctico:** A definir.
 
 ## Teóricas
 ## Prácticas
