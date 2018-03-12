@@ -45,6 +45,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 |**Recuperatorio Trabajo Práctico:**  |     A definir   |
 
 ## Teóricas
+
+[Clase 0 - Acumuladores Booleanos](prog2-ungs.github.io/teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+
 ## Prácticas
 ## TP's
 ## Bibliografía
