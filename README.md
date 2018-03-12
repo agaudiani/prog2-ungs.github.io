@@ -2,9 +2,10 @@
 
 **Universidad Nacional de General Sarmiento**
 
-Bienvenidos a Programación II Primer Cuatrimestre de 2018, en esta página encontrarán todo el material e información para la cursada así como 
+Bienvenidos a Programación II Primer Semestre de 2018, en esta página encontrarán todo el material e información necesaria para la cursada.
 
-|            | Comisión 1             | Comisión 2              | Comision 3              |
+
+|            | Comisión 1             | Comisión 2              | Comisión 3              |
 |  :---:     |    :---               |    :---                |    :---                |
 | **Horarios**   |  Martes: 18:00 a 22:00 - _Aula XX_ | Martes: 18:00 a 22:00 - _Aula XX_  | Martes: 08:00 a 12:00 - _Aula XX_  |
 |            |  Jueves: 20:00 a 22:00 - _Aula XX_     | Jueves: 20:00 a 22:00 - _Aula XX_  | Jueves: 08:00 a 10:00 - _Aula XX_ |
@@ -33,16 +34,23 @@ Para promocionar se tiene que aprobar la cursada aprobada y tener un promedio ma
 Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Fechas importantes
-**Primer Parcial:** A definir.\
-**Segundo Parcial:** A definir.\
-**Trabajo Práctico:** A definir.\
-**Recuperatorio Primer Parcial:** A definir.\
-**Recuperatorio Segundo Parcial:** A definir.\
-**Recuperatorio Trabajo Práctico:** A definir.
+
+|  Evaluación           |   Fecha     |
+|  :---                   |    :---:        |
+|**Primer Parcial**       |     A definir   |
+|**Segundo Parcial:**     |     A definir   |
+|**Trabajo Práctico:**    |     A definir   |
+|**Recuperatorio Primer Parcial:**    |     A definir   |
+|**Recuperatorio Segundo Parcial**    |     A definir   |
+|**Recuperatorio Trabajo Práctico:**  |     A definir   |
 
 ## Teóricas
 ## Prácticas
-## TP's
+## TP'sMarkdown is not a replacement for HTML, or even close to it. Its syntax is
+very small, corresponding only to a very small subset of HTML tags. The idea
+is not to create a syntax that makes it easier to insert HTML tags. In my
+opinion, HTML tags are already easy to insert. The idea for Markdown is to
+make it easy to read, write, and edit prose.
 
 ## Bibliografía
 
