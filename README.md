@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Programación II Universidad Nacional de General Sarmiento
 
 You can use the [editor on GitHub](https://github.com/prog2-ungs/prog2-ungs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
