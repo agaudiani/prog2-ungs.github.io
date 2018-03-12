@@ -1,37 +1,13 @@
-## Programación II Universidad Nacional de General Sarmiento
+# Programación II Universidad Nacional de General Sarmiento
 
-You can use the [editor on GitHub](https://github.com/prog2-ungs/prog2-ungs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et blandit eros. In hac habitasse platea dictumst. Integer blandit venenatis dui, id pellentesque ante ultrices sed. Mauris mollis ornare mattis. Quisque tristique interdum ex a pellentesque. Phasellus ut velit at turpis euismod auctor ac id neque. Fusce fringilla metus non mollis suscipit. Donec sed gravida nisl, non ultricies ex. Praesent aliquet dapibus ligula vel ornare. Fusce maximus semper elementum. Morbi molestie mi magna, vel tincidunt lorem tristique a. Nulla ut orci tortor. Vestibulum eget nibh rhoncus metus scelerisque dictum quis dictum nisi. Aenean erat leo, suscipit ut porta non, tempor et augue.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Información de la materia
+## Fechas importantes
+## Teóricas
+## Prácticas
+## TP's
 
-### Markdown
+## Bibliografia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prog2-ungs/prog2-ungs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
