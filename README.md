@@ -44,9 +44,16 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 |**Recuperatorio Segundo Parcial**    |     A definir   |
 |**Recuperatorio Trabajo Práctico:**  |     A definir   |
 
-[Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+
 ## Teóricas
+[Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
 ## Prácticas
+[Práctica 0](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+[Práctica 1](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+[Práctica 2](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+[Práctica 4](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+[Práctica 5](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+
 ## TP's
 ## Bibliografía
 
