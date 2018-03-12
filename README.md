@@ -48,11 +48,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ## Teóricas
 [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
 ## Prácticas
-[Práctica 0](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
-[Práctica 1](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
-[Práctica 2](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
-[Práctica 4](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
-[Práctica 5](../practicas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+prog2-ungs.github.io
+[Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 
 ## TP's
 ## Bibliografía
