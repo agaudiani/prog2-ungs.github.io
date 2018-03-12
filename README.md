@@ -46,12 +46,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Teóricas
 ## Prácticas
-## TP'sMarkdown is not a replacement for HTML, or even close to it. Its syntax is
-very small, corresponding only to a very small subset of HTML tags. The idea
-is not to create a syntax that makes it easier to insert HTML tags. In my
-opinion, HTML tags are already easy to insert. The idea for Markdown is to
-make it easy to read, write, and edit prose.
-
+## TP's
 ## Bibliografía
 
 1. D. Barnes y M. Kolling, Programación Orientada a Objetos (tercera edición). Pearson Educación, 2007. (ISBN: 84-8322-350-5)
