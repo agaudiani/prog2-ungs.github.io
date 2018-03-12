@@ -8,6 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et blandit eros
 ## Prácticas
 ## TP's
 
-## Bibliografia
+## Bibliografía
 
 
