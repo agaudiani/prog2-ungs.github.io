@@ -13,9 +13,9 @@ Bienvenidos a Programación II Primer Semestre de 2018, en esta página encontra
 |            |   Damián Alemán        | Luis Agustín Nieto      |  Javier Torre           |
 
 **Horario de oficina**
-
 Jueves de 16 a 19, oficina 2020 (módulo 2B).\
-Consultas por correo
+
+**Consultas por correo**
 __ungs.programacion2@gmail.com__
 
 Siempre incluir en el asunto la comisión: com1/com2/com3
