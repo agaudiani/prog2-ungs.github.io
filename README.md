@@ -7,8 +7,8 @@ Bienvenidos a Programación II Primer Semestre de 2018, en esta página encontra
 
 |            | Comisión 1             | Comisión 2              | Comisión 3              |
 |  :---:     |    :---               |    :---                |    :---                |
-| **Horarios**   |  Martes: 18:00 a 22:00 - _Aula XX_ | Martes: 18:00 a 22:00 - _Aula XX_  | Martes: 08:00 a 12:00 - _Aula XX_  |
-|            |  Jueves: 20:00 a 22:00 - _Aula XX_     | Jueves: 20:00 a 22:00 - _Aula XX_  | Jueves: 08:00 a 10:00 - _Aula XX_ |
+| **Horarios**   |  Martes: 18:00 a 22:00 - _Labo 7114_ | Martes: 18:00 a 22:00 - _Labo 7226_  | Martes: 08:00 a 12:00 - _Labo 7230_  |
+|            |  Jueves: 20:00 a 22:00 - _Labo 7114_     | Jueves: 20:00 a 22:00 - _Labo 7226_  | Jueves: 08:00 a 10:00 - _Labo 7230_ |
 | **Docentes**   |   Daniel Bertaccini    | Martha Semken           |  Martin Pustilnik       |
 |            |   Damián Alemán        | Luis Agustín Nieto      |  Javier Torre           |
 
