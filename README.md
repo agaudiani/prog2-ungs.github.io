@@ -49,8 +49,12 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
 ## Prácticas
 [Práctica 0](../practicas/Practica%2000%2020170419.pdf)
+[Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 
-## TP's
+## Trabajo Práctico
+## Soluciones vistas en clase
+
+
 ## Bibliografía
 
 1. D. Barnes y M. Kolling, Programación Orientada a Objetos (tercera edición). Pearson Educación, 2007. (ISBN: 84-8322-350-5)
