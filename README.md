@@ -48,7 +48,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ## Teóricas
 [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
 ## Prácticas
-[Práctica 0](../practicas/Practica%2000%2020170419.pdf)\
+[Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 
 [Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 
