@@ -18,7 +18,7 @@ Jueves de 16 a 19, oficina 2020 (módulo 2B).
 **Consultas por correo**
 __ungs.programacion2@gmail.com__
 
-Siempre incluir en el asunto la comisión: com1/com2/com3
+Siempre incluir en el asunto la comisión: [Com1] / [Com2] / [Com3]
 
 
 ## Régimen de cursada
@@ -28,7 +28,7 @@ Las instancias de evaluación durante la cursada son:
 * Un trabajo práctico (en grupos de hasta dos personas).
 * Dos parciales individuales.
 
-Para aprobar la cursada **todas** las notas tienen que ser mayor o igual a **5**.\\
+Para aprobar la cursada las notas tienen que ser mayor o igual a **5** en el TP y mayor o igual a **4** en los parciales.\\
 Para promocionar se tiene que aprobar la cursada y tener un promedio mayor o igual a **7**.
 
 Cada instancia de evaluación tiene su correspondiente recuperatorio.
@@ -51,14 +51,14 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Prácticas
 [Práctica 0](../practicas/Practica%2000%2020170419.pdf)\\
-[Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)\\
+[Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 
 [Práctica 1](../practicas//Practica%2001%2020170403.pdf)
 
-## Trabajo Práctico
 ## Soluciones vistas en clase
 [Ejemplo de Matriz](../codigo/matPrac0.java)
 
+## Trabajo Práctico
 
 ## Bibliografía
 
