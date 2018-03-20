@@ -1,3 +1,5 @@
+```java
+
 public class mayorDiv {
 
 	public static boolean mayorDiversidad(int[][] matriz){
@@ -38,3 +40,5 @@ public class mayorDiv {
 		return ret;
 	}
 }
+
+```
