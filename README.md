@@ -60,6 +60,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Trabajo Práctico
 
+
 ## Bibliografía
 
 1. D. Barnes y M. Kolling, Programación Orientada a Objetos (tercera edición). Pearson Educación, 2007. (ISBN: 84-8322-350-5)
