@@ -58,8 +58,6 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ## Soluciones vistas en clase
 [Ejemplo de Matriz](../codigo/matPrac0.java)
 
-[Ejemplo de Matriz](../codigo/test.md)
-
 ## Trabajo Práctico
 
 
