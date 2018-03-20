@@ -47,10 +47,14 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Teóricas
 [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+[Clase 1 - Complejidad Algorítmica](../teoricas/Clase%2001%20Complejidad%2020150101.pdf)
+
 ## Prácticas
 [Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 
 [Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)
+
+[Práctica 1](../practicas//Practica%2001%2020170403.pdf)
 
 ## Trabajo Práctico
 ## Soluciones vistas en clase
