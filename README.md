@@ -28,7 +28,7 @@ Las instancias de evaluación durante la cursada son:
 * Un trabajo práctico (en grupos de hasta dos personas).
 * Dos parciales individuales.
 
-Para aprobar la cursada las notas tienen que ser mayor o igual a **5** en el TP y mayor o igual a **4** en los parciales.\\
+Para aprobar la cursada las notas tienen que ser mayor o igual a **4** en el TP y mayor o igual a **5** en los parciales.\\
 Para promocionar se tiene que aprobar la cursada y tener un promedio mayor o igual a **7**.
 
 Cada instancia de evaluación tiene su correspondiente recuperatorio.
