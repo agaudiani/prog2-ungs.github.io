@@ -59,8 +59,11 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ### Comisión 1
 ### Comisión 2
 ### Comisión 3
-[Ejemplo de Matriz](../codigo/matPrac0.java)
-
+  #### Práctica 0
+  [Practica 0 - Ej. Matrices](../codigo/matPrac0.java)
+  #### Práctica 1
+  
+  
 ## Trabajo Práctico
 
 
