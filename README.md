@@ -56,8 +56,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 [Práctica 1](../practicas//Practica%2001%2020170403.pdf)
 
 ## Soluciones vistas en clase
-### Comisión 1
-### Comisión 2
+[comment]: ### Comisión 1
+[comment]: ### Comisión 2
 ### Comisión 3
 #### Práctica 0
 [Ej. Matrices](../codigo/matPrac0.java)
