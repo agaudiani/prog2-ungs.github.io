@@ -65,6 +65,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 [Ej. Matrices](../codigo/matPrac0.java)
 #### Práctica 1
 [Gráfico ej. 5d](../codigo/practica1-5d.xlsx)
+[Test de Primalidad](../codigo/esPrimo3)
   
   
 ## Trabajo Práctico
