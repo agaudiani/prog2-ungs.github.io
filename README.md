@@ -42,7 +42,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 |**Primer Parcial**       |     3/04   |
 |**Segundo Parcial:**     |     A definir   |
 |**Trabajo Práctico:**    |     A definir   |
-|**Recuperatorio Primer Parcial:**    |     A definir   |
+|**Recuperatorio Primer Parcial:**    |     12/04       |
 |**Recuperatorio Segundo Parcial**    |     A definir   |
 |**Recuperatorio Trabajo Práctico:**  |     A definir   |
 
