@@ -18,7 +18,7 @@ Jueves de 10 a 12, oficina 2018 (módulo 2B).
 **Consultas por correo**
 __ungs.programacion2@gmail.com__
 
-Siempre incluir en el asunto la comisión: [Com1] / [Com2] / [Com3]
+Siempre incluir en el asunto la comisión: Com1 / Com2 / Com3
 
 **Material**\\
 Todo el material de la cursada se puede encontrar en [http://bit.do/p2-mat](http://bit.do/p2-mat)
