@@ -12,8 +12,9 @@ El archivo ZIP debe contener todos los archivos _.java_ que compongan la entrega
 
 Se puede usar la funcionalidad _Export_ de Eclipse para crear el archivo a enviar. Lo más expeditivo es exportar el _paquete_ que contiene el código, haciendo click secundario en el nombre del paquete y la opción _Export â†’ General â†’ Archive_:
 
-[//]: ![Export package]({{ site.baseurl }}{% link assets/exportpkg.png %})
-[//]: ![Export to zip]({{ site.baseurl }}{% link assets/exportzip.png %})
+[//]: #  ![Export package]({{ site.baseurl }}{% link assets/exportpkg.png %})
+
+[//]: #  ![Export to zip]({{ site.baseurl }}{% link assets/exportzip.png %})
 
 
 ## Asunto
