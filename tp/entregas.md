@@ -33,7 +33,7 @@ En el caso de entregas grupales se incluye la información de los dos estudiante
 
 Es requisito indispensable que el código entregado compile sin errores. **No se aceptarán entregas con errores de compilación.**.
 
-[//]: Asimismo, si la consigna incluye casos de prueba en formato [JUnit](junit.md), la entrega debe cumplir con su especificación.
+[//]: #  Asimismo, si la consigna incluye casos de prueba en formato [JUnit](junit.md), la entrega debe cumplir con su especificación.
 
 Asimismo, si la consigna incluye casos de prueba en formato JUnit, la entrega debe cumplir con su especificación.
 
