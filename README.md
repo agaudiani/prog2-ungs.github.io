@@ -69,6 +69,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
   
   
 ## Trabajo Práctico
+[Normas de entrega](../tp/entregas.md) \\
 
 
 ## Bibliografía
