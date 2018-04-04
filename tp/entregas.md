@@ -61,18 +61,3 @@ De los archivos _*.java_ entregados importa:
 No es importante:
 
   - la estructura de directorios (todos los archivos se compilan de manera conjunta)
-
-**El corrector me responde: "Errores en las firmas definidas"**
-
-No compila el código entregado al ser combinado con las pruebas de la consigna. Esto significa que no se siguió algún detalle de la consigna (nombre de paquete, visibilidad _public_, parámetros de las funciones, etc.). También puede faltar la firma de algún ejercicio opcional.
-
-Ver también la pregunta siguiente.
-
-**Realicé modificaciones en las pruebas, y no corren en el corrector**
-
-El corrector no permite e ignora cualquier cambio realizado a los archivos de que forman parte de la consigna: pruebas, funciones de apoyo, etc.):
-
-  - si estos archivos contienen algún error, debe comunicarse para que sean subsanados para todos los alumnos
-
-  - si se desean enviar pruebas adicionales, deben estar en un archivo separado (por ejemplo _PruebasAlumno.java_).
-
