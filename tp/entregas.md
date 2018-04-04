@@ -1,6 +1,6 @@
-# Entrega de TPs y prÃ¡cticas
+# Entrega de TPs y prácticas
 
-Todos las entregas se realizan por correo electrónico a la dirección de la materia: `ungs.programacion2@gmail.com`. Cada envío recibe una respuesta automática indicando si se recibió correctamente.
+Todos las entregas se realizan por correo electrónico a la dirección de la materia: `ungs.programacion2@gmail.com`.
 
 Todas las entregas constan de _uno o dos_ archivos adjuntos:
 
@@ -12,28 +12,29 @@ El archivo ZIP debe contener todos los archivos _.java_ que compongan la entrega
 
 Se puede usar la funcionalidad _Export_ de Eclipse para crear el archivo a enviar. Lo más expeditivo es exportar el _paquete_ que contiene el código, haciendo click secundario en el nombre del paquete y la opción _Export â†’ General â†’ Archive_:
 
-![Export package]({{ site.baseurl }}{% link assets/exportpkg.png %})
-![Export to zip]({{ site.baseurl }}{% link assets/exportzip.png %})
+[//]: ![Export package]({{ site.baseurl }}{% link assets/exportpkg.png %})
+[//]: ![Export to zip]({{ site.baseurl }}{% link assets/exportzip.png %})
 
 
 ## Asunto
 
 El asunto del correo debe incluir nombre de la entrega, comisión, apellido y número de padrón; por ejemplo:
 
-    Asunto: Prac0 COM1 - López, 12345/2015
-    Asunto: Prac1 COM2 - Giménez, 67890/2014
+    Asunto: TP COM1 - López, 12345/2015
+    Asunto: TP COM2 - Giménez, 67890/2014
 
 En el caso de entregas grupales se incluye la información de los dos estudiantes:
 
-    Asunto: TP1 COM3 - Campos, 22334/2016 - Alfonso, 44556/2017
+    Asunto: TP COM3 - Campos, 22334/2016 - Alfonso, 44556/2017
 
 
 ## Requisitos de la entrega
 
 Es requisito indispensable que el código entregado compile sin errores. **No se aceptarán entregas con errores de compilación.**.
 
-Asimismo, si la consigna incluye casos de prueba en formato [JUnit](junit.md), la entrega debe cumplir con su especificación.
+[//]: Asimismo, si la consigna incluye casos de prueba en formato [JUnit](junit.md), la entrega debe cumplir con su especificación.
 
+Asimismo, si la consigna incluye casos de prueba en formato JUnit, la entrega debe cumplir con su especificación.
 
 ## Colaboración y detección de copias
 
@@ -41,11 +42,11 @@ En todo entorno académico se valora y promueve la colaboración entre alumnos. 
 
 Es válido:
 
-  - conversar con otros estudantes sobre cómo resolver un problema o trabajo práctico (qué algoritmo, diseño o estrategia convienen)”
+  - conversar con otros estudantes sobre cómo resolver un problema o trabajo práctico (qué algoritmo, diseño o estrategia convienen)
 
 No se permite:
 
-  - pedir, ofrecer, proporcionar o leer el código de otros estudiantes 
+  - Pedir, ofrecer, proporcionar o leer el código de otros estudiantes 
 
 Todo el código entregado se somete a un programa de detección de copias. Los resultados son revisados a mano por los docentes y resultarán en acción disciplinaria cuando proceda.
 
