@@ -50,6 +50,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ## Teóricas
 [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf) \\
 [Clase 1 - Complejidad](../teoricas/Clase%2001%20Complejidad%2020150101.pdf)
+[Clase 2 - Tad](../teoricas/Clase%2002%20TAD%2020170201.pdf)
+
 
 ## Prácticas
 [Práctica 0](../practicas/Practica%2000%2020170419.pdf)\\
