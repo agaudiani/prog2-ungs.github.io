@@ -66,7 +66,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 #### Práctica 1
 [Gráfico ej. 5d](../codigo/practica1-5d.xlsx) \\
 [Test de Primalidad](../codigo/esPrimo3.txt)
-  
+#### Práctica 2
+[TAD Naturales](../codigo/nat.java)
+
   
 ## Trabajo Práctico
 [Normas de entrega](../tp/entregas) 
