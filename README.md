@@ -48,15 +48,15 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 
 ## Teóricas
-- [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf) \\
-- [Clase 1 - Complejidad](../teoricas/Clase%2001%20Complejidad%2020150101.pdf) \\
+- [Clase 0 - Acumuladores Booleanos](../teoricas/Clase%2000%20Acumuladores%20Booleanos%2020150301.pdf)
+- [Clase 1 - Complejidad](../teoricas/Clase%2001%20Complejidad%2020150101.pdf)
 - [Clase 2 - TAD](../teoricas/Clase%2002%20TAD%2020170201.pdf)
 
 
 ## Prácticas
-- [Práctica 0](../practicas/Practica%2000%2020170419.pdf)\\
-- [Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)\\
-- [Práctica 1](../practicas//Practica%2001%2020170403.pdf) \\
+- [Práctica 0](../practicas/Practica%2000%2020170419.pdf)
+- [Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)
+- [Práctica 1](../practicas//Practica%2001%2020170403.pdf)
 - [Práctica 2 - TAD's Básicos](../practicas/Practica%2002a%20TAD%20Basicos%2020170123.pdf)
 
 
@@ -65,8 +65,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ### Comisión 1
 
 #### Práctica 2
-- [TAD Tupla<T1,T2>](../codigo/Tupla.java)\\
-- [TAD ListaCoordenadas](../codigo/ListaCoordenadas.java)\\
+- [TAD Tupla<T1,T2>](../codigo/Tupla.java)
+- [TAD ListaCoordenadas](../codigo/ListaCoordenadas.java)
 - [TAD Conjunto](../codigo/Conjunto.java)
 
 
@@ -75,7 +75,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 #### Práctica 0
 - [Ej. Matrices](../codigo/matPrac0.java)
 #### Práctica 1
-- [Gráfico ej. 5d](../codigo/practica1-5d.xlsx) \\
+- [Gráfico ej. 5d](../codigo/practica1-5d.xlsx) 
 - [Test de Primalidad](../codigo/esPrimo3.txt)
 #### Práctica 2
 - [TAD Naturales](../codigo/nat.java)
