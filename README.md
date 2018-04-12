@@ -62,7 +62,14 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 
 ## Soluciones vistas en clase
-[//]: ### Comisión 1
+### Comisión 1
+
+#### Práctica 2
+[TAD Tupla<T1,T2>](../codigo/Tupla.java)
+[TAD ListaCoordenadas](../codigo/ListaCoordenadas.java)
+[TAD Conjunto<T>](../codigo/Conjunto.java)
+
+
 [//]: ### Comisión 2
 ### Comisión 3
 #### Práctica 0
