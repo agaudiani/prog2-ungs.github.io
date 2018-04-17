@@ -70,7 +70,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [TAD Conjunto](../codigo/Conjunto.java)
 
 
-[//]: ### Comisión 2
+### Comisión 2
+- [TAD Conjunto](../codigo/Conjunto1.java)
+
 ### Comisión 3
 #### Práctica 0
 - [Ej. Matrices](../codigo/matPrac0.java)
