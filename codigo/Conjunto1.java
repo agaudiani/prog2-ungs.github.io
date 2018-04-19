@@ -44,6 +44,7 @@ public class conjunto1<T> {
 	}
 
 	void interseccion(conjunto1<T> c){ // interseccion 1: Destructiva
+		//Tengo que trabajar con el arraylist, porque el conjunto no tiene operaciones para eliminar
 		ArrayList<T> elemsNew = new ArrayList<T>();
 		
 		for(int i=0; i<c.tamanio();i++){
