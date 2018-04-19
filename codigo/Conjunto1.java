@@ -1,5 +1,3 @@
-```java
-
 package conjunto;
 
 import java.util.ArrayList;
@@ -71,4 +69,3 @@ public class conjunto1<T> {
 	}
 }
 
-```
