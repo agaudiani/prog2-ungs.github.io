@@ -59,6 +59,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Adicional Práctica 0](../practicas/Practica%2000%2020170419.pdf)
 - [Práctica 1](../practicas//Practica%2001%2020170403.pdf)
 - [Práctica 2 - TAD's Básicos](../practicas/Practica%2002a%20TAD%20Basicos%2020170123.pdf)
+- [Práctica 2b - TAD's Avanzados](../practicas/Practica%2002b%20TAD%20Avanzados%2020170123.pdf)
 - [Práctica Tecnología Java](../practicas/tecjava)
 
 
