@@ -11,7 +11,7 @@ Recibe un lista enlazada de cadenas y devuelve una nueva lista sin elementos rep
     public static LinkedList<String>
         elimDuplicados(LinkedList<String lista) ...
 
-Complejidad: $$\mathcal{O}(n)$$.
+Complejidad: O(n).
 
 La función debe preservar el orden original, quedándose con la primer aparición de cada elemento. Así­:
 
@@ -29,9 +29,9 @@ Además, se trabajará con arreglos dinámicos esta vez:
     public static ArrayList<String>
         elimDuplicadosIzq(ArrayList<String> lista) ...
 
-Complejidad: $$\mathcal{O}(n)$$.
+Complejidad: O(n).
 
-Ayuda: Usar un diccionario para llevar la cuenta de apariciones, y recorrer la lista una segunda vez para determinar el orden de inserción. Evitar `ArrayList.addFirst()`, pues no es $$\mathcal{O}(1)$$.
+Ayuda: Usar un diccionario para llevar la cuenta de apariciones, y recorrer la lista una segunda vez para determinar el orden de inserción. Evitar `ArrayList.addFirst()`, pues no es O(1).
 
 ## Cómputos agregados
 
@@ -54,7 +54,7 @@ Se desea calcular, dada una lista de partidos, el ganador de la liga:
 
     public static String ganadorLiga(List<Partidos> l) ...
 
-Complejidad: $$\mathcal{O}(n)$$, siendo $$n$$ el número de partidos.
+Complejidad: O(n), siendo _n_ el número de partidos.
 
 Reglas de puntaje de la liga:
 
@@ -91,7 +91,7 @@ Resultado:
 27/05 : Juan, Elena
 ```
 
-Complejidad: $$\mathcal{O}(n)$$, siendo $$n$$ el número de personas.
+Complejidad: O(n), siendo _n_ el número de personas.
 
 El resultado se debe devolver en un diccionario:
 
