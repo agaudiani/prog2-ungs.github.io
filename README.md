@@ -63,6 +63,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Práctica Tecnología Java](../practicas/Practica%2003%20Tecnologias%2020170101.pdf)
 - [Práctica Adicional - Estructuras Hash](../practicas/tecjava)
 
+
 ## Soluciones vistas en clase
 ### Comisión 1
 
