@@ -61,7 +61,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Práctica 2 - TAD's Básicos](../practicas/Practica%2002a%20TAD%20Basicos%2020170123.pdf)
 - [Práctica 2b - TAD's Avanzados](../practicas/Practica%2002b%20TAD%20Avanzados%2020170123.pdf)
 - [Práctica Tecnología Java](../practicas/Practica%2003%20Tecnologias%2020170101.pdf)
-- [Práctica Adicional - Estructuras Hash(../practicas/tecjava)
+- [Práctica Adicional - Estructuras Hash](../practicas/tecjava)
 
 ## Soluciones vistas en clase
 ### Comisión 1
