@@ -9,7 +9,7 @@ public class conjunto1<T> {
 			elementos = new ArrayList<T>();
 		
 	} // Constructor1
-	Integer tamanio(){
+	int tamanio(){
 		return elementos.size();		
 	}
 	void Agregar(T elem) {
