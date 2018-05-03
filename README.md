@@ -52,6 +52,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Clase 1 - Complejidad](../teoricas/Clase%2001%20Complejidad%2020150101.pdf)
 - [Clase 2 - TAD](../teoricas/Clase%2002%20TAD%2020170201.pdf)
 - [Clase 3 - Tecnología Java](../teoricas/Clase%2003%20Tecnologia%20java%2020170101.pdf)
+- [Clase 4 - Recursión](https://goo.gl/qW5hDB)
+- [Clase 5 - Arboles](https://goo.gl/zRU8HZ)
 
 
 ## Prácticas
