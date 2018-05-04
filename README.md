@@ -90,7 +90,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Test de Primalidad](../codigo/esPrimo3.txt)
 #### Práctica 2
 - [TAD Naturales](../codigo/nat.java)
-
+- [TAD Pila<T>](../codigo/Pila.txt)
+- [TAD PPTLS con distintas estancias de diseño](../codigo/PPTLS.docx.pdf)
+  
   
 ## Trabajo Práctico
 - [Normas de entrega](../tp/entregas) 
