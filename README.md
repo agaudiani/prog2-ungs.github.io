@@ -92,7 +92,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [TAD Naturales](../codigo/nat.java)
 - [TAD Pila](../codigo/Pila.txt)
 - [TAD MIB](../codigo/MIB.java) [MIB Test](../codigo/TestMIB.java)
-- [TAD PPTLS con distintas estancias de diseño](../codigo/PPTLS v2.pdf)
+- [TAD PPTLS con distintas estancias de diseño](../codigo/PPTLS%v2.pdf)
   
   
 ## Trabajo Práctico
