@@ -41,10 +41,11 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 |  :---                   |    :---:        |
 |**Primer Parcial**       |     3/04   |
 |**Recuperatorio Primer Parcial:**    |     12/04       |
-|**Segundo Parcial:**     |     A definir   |
-|**Trabajo Práctico:**    |     A definir   |
-|**Recuperatorio Segundo Parcial**    |     A definir   |
+|**Trabajo Práctico:**    |     29/05   |
 |**Recuperatorio Trabajo Práctico:**  |     A definir   |
+|**Segundo Parcial:**     |     A definir   |
+|**Recuperatorio Segundo Parcial**    |     A definir   |
+
 
 
 ## Teóricas
@@ -67,6 +68,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Práctica Adicional - Estructuras Hash](../practicas/tecjava)
 - [Práctica 4a - Recursividad](../practicas/Practica%2004a%20Recursion%2020170101.pdf)
 - [Práctica 4b - Árboles](../practicas/Practica%2004bc%20Arboles%2020160202.pdf)
+
+## TP
+- [Trabajo Práctico](../tp/TP1%20C1%202018.pdf)
 
 
 
