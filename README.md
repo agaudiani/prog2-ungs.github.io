@@ -99,7 +99,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [TAD Pila](../codigo/Pila.txt)
 - [TAD MIB](../codigo/MIB.java) [MIB Test](../codigo/TestMIB.java)
 - [TAD PPTLS con distintas estancias de diseño](../codigo/PPTLSv2.pdf)
-  
+#### Práctica 3
+- [Suma recursiva](../codigo/recur%20ej1.txt)   
   
 ## Trabajo Práctico
 - [Normas de entrega](../tp/entregas) 
