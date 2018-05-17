@@ -1,0 +1,19 @@
+Sumar los elementos de un array de enteros. Recordar que la suma es asociativa!
+
+
+public int suma(int[] a){
+	return suma(a,0);
+}
+
+private int suma(int[] a, int pos)
+{
+	if(pos == a.lenght-1)
+		return a[pos];
+	 
+	return a[pos] + suma(a,pos++);
+}
+
+suma([1,5,3],0) =
+1 + suma([5,3],1)  =
+1 + 5 + suma([3],2)  =
+1 + 5 + 3
