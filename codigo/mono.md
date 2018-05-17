@@ -1,17 +1,19 @@
 Mono
 -Lleva la dinámica del juego, tira el dado, mueve jugadores y aplica reglas.
--Tiene un tablero, jugadores, reglas.
-
-Reglas
--Se crea con el porcentaje del alquiler
--aplica regla (recibe jugadores y cobra alquiler, o hace comprar )
-
-Jugador
--Tiene la plata y las propiedades del jugador
--Tiene la posicion del jugador
+-Tiene un tablero, jugadores y reglas.
 
 Tablero
--Tiene un arreglo estático de casillas y métodos para operar con ellas
+-Tiene un arreglo estático de casillas y métodos para operar con ellas (ver y setear dueño y valores)
+
+Reglas
+creo reglas con el porcentaje del alquiler, otra solución posible es no usar un TAD aparte y hacer un método "aplicarReglas" dentro de mono, lo importante es que se use algo y no se hagan todas las comprobaciones dentro del método jugar().
+
+-Se crea con el porcentaje del alquiler
+-aplica regla (comprar, pagar alquiler)
+
+Jugador
+-Tiene el dinero y las propiedades del jugador
+-Tiene la posición del jugador
 
 Casilla
 -Precio
@@ -31,9 +33,7 @@ Mono(int cant){
    tablero = new tablero(cant)
    jug1 = new jugador(1000) 
    jug2 = new jugador(1000)
-   reg = new reglas(1) //creo reglas con el costo del alquiler, otra solución posible es no usar un TAD aparte y hacer un 
-                      //método "aplicarReglas" dentro de mono, lo importante es que se use algo y no se hagan todas las 
-                      //comprobaciones dentro del método jugar().
+   reg = new reglas(1) 
 }
 
 void agregarCasilla(int casilla, int valor){
@@ -42,11 +42,11 @@ void agregarCasilla(int casilla, int valor){
 
 void Jugar(){
    int resDado = número random de 1 a 5
-   jug1.setPosr(jug1.getPos()+resDado % tablero.tamaño)
+   jug1.setPos(jug1.getPos()+resDado % tablero.tamaño)
    reglas.aplicarReglas(jug1, tablero)
 
    resDado = número random de 1 a 5
-   jug2.mover(jug2.getPos()+resDado % tablero.tamaño)
+   jug2.setPos(jug2.getPos()+resDado % tablero.tamaño)
    reglas.aplicarReglas(jug2, tablero)
 }
 
@@ -79,107 +79,52 @@ void getValor(int casilla){
 void setDueño(int casilla, jugador jug){
   casillas[casilla].setDueño(jug)
 }
+boolean tieneDueño(int casilla){...}
+jugador getDueño(int casilla){...}
+
+
 IREP= 
-
 --------------
 
-
-
---------------
 Jugador
 private int dinero
-private arrayList<int> dueño
-private int dinero
+private arrayList<int> propiedades
 private int posicion
 
-jugador(int dinero)
-int getDinero()
-int getPos()
-void setPos(int newPos)
-bool esDueño(int pos)
+jugador(int monto){
+   dinero = monto
+   posición = 0
+   propiedades = NULL
+}
 
-void comprar(int pos, int valor){
-// miramos si tenemos la posicion
-//si no la tenemos la agregamos a la lista y descontamos el dinero
+int getDinero(){...}
+void setDinero(){...}
+int getPos(){...}
+void setPos(int newPos){...}
+bool esDueño(int pos){...}
+void comprar(int pos, double valor){
+   // miramos si tenemos la posicion
+   //si no la tenemos la agregamos a la lista y descontamos el dinero
 }
 IREP:...
---------------
-
 --------------
 Reglas
 private int costoAlquiler
 
-reglas(int costoAlquiler){
-...
-}
+reglas(int costoAlquiler){...}
 
-aplicar(jugador jug1, jugador jug2, int[] tablero){ //aplicamos reglas al jugador 1
-
+aplicar(jugador jug1, tablero tab){
 int pos = jug1.getPos()
 
-if (jug2.esDueño(pos)){
-      ///le cobramos alquiler a jug1
+if (tab.tieneDueño(pos)){
+   if(tab.getDueño =! jug1){ ///le cobramos alquiler a jug1
+      ... 
+      }
 }
-
 else { //compra si no es dueño o no hace nada si es dueño
-   jug1.comprar(pos, tablero[pos]))
+   jug1.comprar(pos, tablero[pos].getValor()))
+   tab.setDueño(pos, jug1)
+   }
 }
 
-}
-   int dado = random(1,5)
-   jugador1.mover(jugador1.getPos()+dado % tablero.length)
-   reglas.aplicarReglas(jugador1, jugador2, tablero)
-
-   dado = random(1,5)
-   jugador2.mover(jugador2.getPos()+dado % cant)
-   reglas.aplicarReglas(jugador2, jugador1, tablero)
-}
-
-Ver(){
-
-}
 IREP=...
---------------
-
-
---------------
-Jugador
-private int dinero
-private arrayList<int> dueño
-private int dinero
-private int posicion
-
-jugador(int dinero)
-int getDinero()
-int getPos()
-void setPos(int newPos)
-bool esDueño(int pos)
-
-void comprar(int pos, int valor){
-// miramos si tenemos la posicion
-//si no la tenemos la agregamos a la lista y descontamos el dinero
-}
-IREP:...
---------------
-
---------------
-Reglas
-private int costoAlquiler
-
-reglas(int costoAlquiler){
-...
-}
-
-aplicar(jugador jug1, jugador jug2, int[] tablero){ //aplicamos reglas al jugador 1
-
-int pos = jug1.getPos()
-
-if (jug2.esDueño(pos)){
-      ///le cobramos alquiler a jug1
-}
-
-else { //compra si no es dueño o no hace nada si es dueño
-   jug1.comprar(pos, tablero[pos]))
-}
-
-}
