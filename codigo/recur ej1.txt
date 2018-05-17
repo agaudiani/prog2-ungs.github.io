@@ -1,4 +1,4 @@
-Sumar los elementos de un array de enteros. Recordar que la suma es asociativa! á
+Sumar los elementos de un array de enteros. Recordar que la suma es asociativa!
 
 
 public int suma(int[] a){
