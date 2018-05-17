@@ -92,7 +92,7 @@ private jugador dueño
 casilla(){...}
 void setValor(int pos, double valor){...}
 double getValor(int pos){...}
-double getValor(int pos){}
+double getValor(int pos){...}
 IREP=Valor es >=0, posicion es >=0
 
 --------------
