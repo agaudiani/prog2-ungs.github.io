@@ -1,3 +1,5 @@
+<meta charset="utf-8"> 
+
 Mono
 -Lleva la dinámica del juego, tira el dado, mueve jugadores y aplica reglas.
 -Tiene un tablero, jugadores y reglas.
