@@ -82,10 +82,20 @@ void setDueño(int casilla, jugador jug){
 boolean tieneDueño(int casilla){...}
 jugador getDueño(int casilla){...}
 
-
 IREP= 
---------------
 
+--------------
+Casilla
+private double valor
+private jugador dueño
+
+casilla(){...}
+void setValor(int pos, double valor){...}
+double getValor(int pos){...}
+double getValor(int pos){}
+IREP= 
+
+--------------
 Jugador
 private int dinero
 private arrayList<int> propiedades
@@ -101,12 +111,13 @@ int getDinero(){...}
 void setDinero(){...}
 int getPos(){...}
 void setPos(int newPos){...}
-bool esDueño(int pos){...}
+bool tieneDueño(int pos){...}
 void comprar(int pos, double valor){
    // miramos si tenemos la posicion
    //si no la tenemos la agregamos a la lista y descontamos el dinero
 }
 IREP:...
+
 --------------
 Reglas
 private int costoAlquiler
