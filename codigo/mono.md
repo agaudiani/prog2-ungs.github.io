@@ -59,7 +59,7 @@ Ver(){
 ---
 }
 
-IREP= 
+IREP=Nada
 --------------
 Tablero
 private casilla[] casillas
@@ -82,7 +82,7 @@ void setDueño(int casilla, jugador jug){
 boolean tieneDueño(int casilla){...}
 jugador getDueño(int casilla){...}
 
-IREP= 
+IREP=Todos los valores de las casillas son >= 0 
 
 --------------
 Casilla
@@ -93,7 +93,7 @@ casilla(){...}
 void setValor(int pos, double valor){...}
 double getValor(int pos){...}
 double getValor(int pos){}
-IREP= 
+IREP=Valor es >=0, posicion es >=0
 
 --------------
 Jugador
@@ -116,19 +116,19 @@ void comprar(int pos, double valor){
    // miramos si tenemos la posicion
    //si no la tenemos la agregamos a la lista y descontamos el dinero
 }
-IREP:...
+IREP:En esta implementación tomamos que el dinero puede ser negativo, significa que perdió, las propiedades son posiciones validas del tablero y lo mismo con la posición.
 
 --------------
 Reglas
-private int costoAlquiler
+private int porcAlquiler
 
-reglas(int costoAlquiler){...}
+reglas(int porcAlquiler){...}
 
 aplicar(jugador jug1, tablero tab){
 int pos = jug1.getPos()
 
 if (tab.tieneDueño(pos)){
-   if(tab.getDueño =! jug1){ ///le cobramos alquiler a jug1
+   if(tab.getDueño =! jug1){ ///le cobramos alquiler a jug1 usando el valor de la casilla que me da el tablero
       ... 
       }
 }
@@ -138,4 +138,4 @@ else { //compra si no es dueño o no hace nada si es dueño
    }
 }
 
-IREP=...
+IREP= El porcentaje del alquiler esta entre 0 y 100
