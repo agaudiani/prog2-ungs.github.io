@@ -57,7 +57,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Clase 5 - Arboles Binarios](../teoricas/Clase%2004b%20AB%2020160801.pdf)
 - [Clase 6 - Arboles Binarios de Búsqueda](../teoricas/Clase%2004c%20ABB%2020160301.pdf)
 - [Clase 7 - Introdución Objetos](../teoricas/Clase%2006a%2020140501%20Intro%20Objetos.pdf)
-- [Clase 8 - Herencia](../teoricas/CClase%2006b%2020140902%20Herencia.pdf)
+- [Clase 8 - Herencia](../teoricas/Clase%2006b%2020140902%20Herencia.pdf)
 
 
 ## Prácticas
