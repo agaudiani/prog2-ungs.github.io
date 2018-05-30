@@ -104,7 +104,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [TAD MIB](../codigo/MIB.java) [MIB Test](../codigo/TestMIB.java)
 - [TAD PPTLS con distintas estancias de diseño](../codigo/PPTLSv2.pdf)
 #### Práctica 3
-- [Suma recursiva](../codigo/recur%20ej1.txt)   
+- [Suma recursiva](../codigo/recur%20ej1.txt)
+- [Eliminar ABB + intuitivo](../codigo/ABB TP.txt)
+
   
 ## Trabajo Práctico
 - [Normas de entrega](../tp/entregas) 
