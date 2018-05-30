@@ -1,0 +1,56 @@
+
+void eliminar(Integer elem)
+	if raiz != null  eliminar(null, "", raiz, elem)
+
+// Eliminar más intuitivo
+void eliminar(Nodo padre, String dir, Nodo nodo, Integer elem)
+	if nodo.info.equals(elem)
+		if esHoja(nodo)
+			if dir == "izq"
+			padre.izq = null
+			else
+			padre.der = null
+		else
+			if der == null
+				max = maximo(nodo.izq)
+				nodo.info = max
+				eliminar(nodo, "izq", nodo.izq, max)
+			else
+				min = minimo(nodo.der)
+				nodo.info = min
+				eliminar(nodo, "der", nodo.der, min)
+	else
+		if elem > nodo.info
+			if nodo.der != null
+			eliminar(nodo, "der", nodo.der, elem )
+		else
+			if nodo.izq != null
+			eliminar(nodo, "izq", nodo.izq, elem )
+
+// ideal del rebalancear. Ojo que es pseudocodigo
+// faltan casos base por ejemplo!
+rebalancear(Nodo nuevo, Nodo raiz)
+
+	medio = raiz.nododelmedio
+	ret.agregar(medio)
+	raiz.eliminar(medio)
+
+	rebalancear(nuevo, raiz.izq)
+	rebalancear(nuevo, raiz.der)
+
+
+cantNodos(0)
+
+Nodo cantNodos(int x)
+	return cantNodos(x, raiz)
+
+private Nodo<Integer> iesimo(int x, Nodo<Integer> nodo){ //Recorre Inorden
+if(cantNodos(nodo.izq) == x)
+	return nodo;
+
+if(cantNodos(nodo.izq) < x)
+	//me voy a la derecha
+	return iesimo(x - (cantNodos(nodo.izq) + 1 ), nodo.der); 
+else
+	return iesimo(x,nodo.izq);
+}
