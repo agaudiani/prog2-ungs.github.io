@@ -107,7 +107,6 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Suma recursiva](../codigo/recur%20ej1.txt)
 - [Eliminar ABB + intuitivo](../codigo/ABB TP.txt)
 
-  
 ## Trabajo Práctico
 - [Normas de entrega](../tp/entregas) 
 
