@@ -42,9 +42,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 |**Primer Parcial**       |     3/04   |
 |**Recuperatorio Primer Parcial:**    |     12/04       |
 |**Trabajo Práctico(entrega):**    |     29/05   |
-|**Recuperatorio Trabajo Práctico(entrega):**  |     A definir   |
-|**Segundo Parcial:**     |     A definir   |
-|**Recuperatorio Segundo Parcial**    |     A definir   |
+|**Segundo Parcial:**     |     19/06   |
+|**Recuperatorio Trabajo Práctico(entrega):**  |     26/06   |
+|**Recuperatorio Segundo Parcial**    |     03/07   |
 
 
 
