@@ -76,7 +76,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## TP
 - [Trabajo Práctico](../tp/TP1%20C1%202018.pdf)
-- [Recuperatorio TP](..tp/TP1%20C1%202018%20recup.pdf)
+- [Recuperatorio TP](../tp/TP1%20C1%202018%20recup.pdf)
 
 
 
