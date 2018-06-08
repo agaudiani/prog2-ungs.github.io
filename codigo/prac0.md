@@ -1,6 +1,5 @@
 # Práctica 0
 
-La fecha de entrega de esta práctica es el **24 de agosto de 2017**, siguiendo las [instrucciones de entrega de la materia](entrega.md). Sólo se debe entregar código; no se precisa informe.
 
 Todo el código debe estar en una única clase:
 
