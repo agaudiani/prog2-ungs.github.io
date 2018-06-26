@@ -1,0 +1,31 @@
+Class Conj<T>
+ArrayList<T> datos
+
+@override
+bool equals(Object obj)
+if obj == null
+	return false
+if !(obj instanceOF Conj<T>)
+	return false
+
+Conj<T> c2 = (Conj<T>) obj
+
+if c2.tamano != tamano()
+	return false
+else
+	ret = true
+	for each elem in c2
+		ret = ret && pertenece(elem)	
+	return ret
+
+
+/*
+Notar que el arrayList.contains(elem) 
+llamara a esto
+*/
+Class T
+...
+@override
+bool equals(Object obj)
+		
+

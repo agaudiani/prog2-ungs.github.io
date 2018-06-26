@@ -1,0 +1,35 @@
+Login a un servidor
+------------------
+
+Adm extends Us
+...
+
+1) Implementacion 1
+
+Usuario us = new Usuario()
+login(us)
+
+login(Us u)
+if u instanceof Adm 
+	(Adm)u.cheklogin()
+if u instanceof Inv
+	(Inv)u.cheklogin()
+...
+---------------
+
+2) Implementacion 2
+
+Usuario us
+login(us)
+
+login(Us u)
+if evento = "Adm"
+	u = new Adm()
+if evento = "Inv"
+	u = new Inv()
+
+u.cheklogin()
+
+	
+
+
