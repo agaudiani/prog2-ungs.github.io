@@ -110,7 +110,11 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [TAD PPTLS con distintas estancias de diseño](../codigo/PPTLSv2.pdf)
 #### Práctica 3
 - [Suma recursiva](../codigo/recur%20ej1.txt)
-- [Eliminar ABB + intuitivo](../codigo/ABB TP.txt)
+- [Eliminar ABB + intuitivo](../codigo/ABB%20TP.txt)
+#### Clases 6 y 9
+- [equals Ejemplo](../codigo/equalsConj.txt)
+- [upCasting Ejemplo](../codigo/upCasting.txt)
+
 
 ## Trabajo Práctico
 - [Normas de entrega](../tp/entregas) 
