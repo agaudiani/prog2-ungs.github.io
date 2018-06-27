@@ -95,7 +95,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [JUNIT Conjunto](../codigo/testConj1.java)
 - [TAD Monopolio](../codigo/mono.txt)
 - [Insertar de ABB](../codigo/ArbolBB_.java)
-
+- [Soluciones Parcial](../codigo/parcial1.txt)
 
 ### Comisión 3
 #### Práctica 0
