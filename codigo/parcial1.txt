@@ -1,0 +1,70 @@
+Ejercicio 2
+Implementar en AB el método  int cantRango(int desde, int hasta)
+que devuelve la cantidad de nodos p para los que se cumple que desde <= p.info <= hasta
+(asumir que NodoAB tiene definido int como tipo de info).
+
+Por ejemplo, en el siguiente árbol:
+cantRango(12,17)  debe retornar   6
+cantRango(18,30)  debe retornar   0
+
+Solución:
+
+	public int cantRango(int desde, int hasta) {
+		return cantRango(desde, hasta, raiz);
+	}
+
+	private int cantRango(int desde, int hasta, Nodo p) {
+		if (p==null) return 0;
+		int cant = 0;
+		if (desde<=p.getinfo() && p.getinfo()<=hasta) cant = 1;
+		return cant + cantRango(desde, hasta, p.izq)
+                        + cantRango(desde, hasta, p.der);
+	}
+  
+  
+Ejercicio 3
+  
+a) Implementar en ABB el método int nivel(int elem) que retorna el nivel en el que se encuentra el nodo cuya info es elem (asumir que NodoABB tiene definido int como tipo de info). 
+Si elem no está en el árbol, se debe retornar -1.
+
+Por ejemplo, en el siguiente árbol:
+nivel(15)  debe retornar   1
+nivel(17)  debe retornar   3
+nivel(24)  debe retornar  -1
+
+b) ¿Cuál es la complejidad del método implementado en (a)?  ¿Cambia si se asegura que el árbol está balanceado? Justificar la respuesta.
+
+Solución 1:
+
+	public int nivel(int elem) {
+		return nivel(elem,raiz,1);
+	}
+
+	private int nivel(int elem, Nodo p, int niv) {
+		if (p == null) return -1;
+		if (elem==p.getinfo()) return niv;
+		if (elem<p.getinfo())
+			return nivel(elem, p.izq, niv+1);
+		else
+			return nivel(elem, p.der, niv+1); 
+	}
+  
+Solución 2:
+
+	public int nivel(Integer elem) {
+		if (pertenece(elem))
+			return nivel(elem,raiz);
+		else
+			return -1;
+	}
+
+	private int nivel(Integer elem, Nodo p) {
+		/* se asume que siempre existe */
+		if (elem==p.getinfo()) return 1;
+		if (elem<p.getinfo())
+			return 1 + nivel(elem, p.izq);
+		else
+			return 1 + nivel(elem, p.der); 
+	}
+ 
+ b)Para ambas soluciones, si es no balanceado O(n), si está balanceado O(log n).
