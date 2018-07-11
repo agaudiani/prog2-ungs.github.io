@@ -54,12 +54,6 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Clase 1 - Complejidad](../teoricas/Clase%2001%20Complejidad%2020150101.pdf)
 - [Clase 2 - TAD](../teoricas/Clase%2002%20TAD%2020170201.pdf)
 - [Clase 3 - Tecnología Java](../teoricas/Clase%2003%20Tecnologia%20java%2020170101.pdf)
-- [Clase 4 - Recursión](../teoricas/Clase%2004a%20Recursion%2020160301.pdf)
-- [Clase 5 - Arboles Binarios](../teoricas/Clase%2004b%20AB%2020160801.pdf)
-- [Clase 6 - Arboles Binarios de Búsqueda](../teoricas/Clase%2004c%20ABB%2020160301.pdf)
-- [Clase 7 - Introducción Objetos](../teoricas/Clase%2006a%2020140501%20Intro%20Objetos.pdf)
-- [Clase 8 - Herencia](../teoricas/Clase%2006b%2020140902%20Herencia.pdf)
-
 
 ## Prácticas
 - [Práctica 0](../practicas/Practica%2000%2020170419.pdf)
@@ -69,11 +63,6 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Práctica 2b - TAD's Avanzados](../practicas/Practica%2002b%20TAD%20Avanzados%2020170123.pdf)
 - [Práctica 3 - Tecnología Java](../practicas/Practica%2003%20Tecnologias%2020170101.pdf)
 - [Práctica Adicional - Estructuras Hash](../practicas/tecjava)
-- [Práctica 4a - Recursividad](../practicas/Practica%2004a%20Recursion%2020170101.pdf)
-- [Práctica 4b - Árboles](../practicas/Practica%2004bc%20Arboles%2020160202.pdf)
-- [Práctica 6 - Objetos](../practicas/Practica%2006%2020160521%20Objetos.pdf)
-- [Práctica 8 - Tipos Paramétricos](../practicas/Practica%2008%2020150401.pdf)
-
 
 ## TP
 - [Trabajo Práctico](../tp/TP1%20C1%202018.pdf)
