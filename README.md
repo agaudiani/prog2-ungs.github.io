@@ -2,7 +2,7 @@
 
 **Universidad Nacional de General Sarmiento**
 
-Bienvenidos a Programación II Primer Semestre de 2018, en esta página encontrarán todo el material e información necesaria para la cursada.
+Bienvenidos a Programación II 2do cuatrimestre de 2018, en esta página encontrarán todo el material e información necesaria para la cursada.
 
 
 |            | Comisión 1             | Comisión 2              | Comisión 3              |
@@ -39,12 +39,12 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 |  Evaluación           |   Fecha     |
 |  :---                   |    :---:        |
-|**Primer Parcial**       |     3/04   |
-|**Recuperatorio Primer Parcial:**    |     12/04       |
-|**Trabajo Práctico(entrega):**    |     29/05   |
-|**Segundo Parcial:**     |     19/06   |
-|**Recuperatorio Trabajo Práctico(entrega):**  |     21/06   |
-|**Recuperatorio Segundo Parcial**    |     03/07   |
+|**Primer Parcial**       |     A definir   |
+|**Recuperatorio Primer Parcial:**    |     A definir       |
+|**Trabajo Práctico(entrega):**    |     A definir   |
+|**Segundo Parcial:**     |     A definir   |
+|**Recuperatorio Trabajo Práctico(entrega):**  |     A definir   |
+|**Recuperatorio Segundo Parcial**    |     A definir   |
 
 
 
