@@ -64,8 +64,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 - [Práctica 3 - Tecnología Java](../practicas/Practica%2003%20Tecnologias%2020170101.pdf)
 
 ## TP
-- [Trabajo Práctico 2018 C1](../tp/TP1%20C1%202018.pdf)
-- [Recuperatorio TP 2018 C1](../tp/TP1%20C1%202018%20recup.pdf)
+- [TP cuatrimestre anterior (2018 C1)](../tp/TP1%20C1%202018.pdf)
+- [RTP cuatrimestre anterior (2018 C1)](../tp/TP1%20C1%202018%20recup.pdf)
 
 
 
