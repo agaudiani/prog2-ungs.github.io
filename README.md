@@ -7,8 +7,8 @@ Bienvenidos a Programación II 2do cuatrimestre de 2018, en esta página encontr
 
 |            | Comisión 1             | Comisión 2              | Comisión 3              |
 |  :---:     |    :---               |    :---                |    :---                |
-| **Horarios**   |  Martes: 18:00 a 22:00 - _Labo 7114_ | Martes: 18:00 a 22:00 - _Labo 7226_  | Martes: 08:00 a 12:00 - _Labo 7230_  |
-|            |  Jueves: 20:00 a 22:00 - _Labo 7114_     | Jueves: 20:00 a 22:00 - _Labo 7226_  | Jueves: 08:00 a 10:00 - _Labo 7230_ |
+| **Horarios**   |  Martes: 18:00 a 22:00 - _Labo xxx_ | Martes: 18:00 a 22:00 - _Labo xxx_  | Martes: 08:00 a 12:00 - _Labo xxx_  |
+|            |  Jueves: 20:00 a 22:00 - _Labo xxx_     | Jueves: 20:00 a 22:00 - _Labo xxx_  | Jueves: 08:00 a 10:00 - _Labo xxx_ |
 | **Docentes**   |   Daniel Bertaccini    | Martha Semken           |  Martin Pustilnik       |
 |            |   Adriana Gaudiani      | Julia Gambuzzi         |  Luis Agustín Nieto     |
 
