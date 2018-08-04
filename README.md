@@ -10,7 +10,7 @@ Bienvenidos a Programación II 2do cuatrimestre de 2018, en esta página encontr
 | **Horarios**   |  Martes: 18:00 a 22:00 - _Labo 7114_ | Martes: 18:00 a 22:00 - _Labo 7226_  | Martes: 08:00 a 12:00 - _Labo 7230_  |
 |            |  Jueves: 20:00 a 22:00 - _Labo 7114_     | Jueves: 20:00 a 22:00 - _Labo 7226_  | Jueves: 08:00 a 10:00 - _Labo 7230_ |
 | **Docentes**   |   Daniel Bertaccini    | Martha Semken           |  Martin Pustilnik       |
-|            |   Damián Alemán        | Luis Agustín Nieto      |  Javier Torre           |
+|            |   Adriana Gaudiani      | Julia Gambuzzi         |  Luis Agustín Nieto     |
 
 **Horario de oficina**
 Jueves de 10 a 12, oficina 2018 (módulo 2B).
