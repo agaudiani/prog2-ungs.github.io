@@ -123,4 +123,9 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ### Bibliografía complementaria:
 6. L. Joyanes Aguilar. Programación Orientada a Objetos (segunda edición). Mc Graw Hill,1996. (ISBN: 84-481-0590-7)
 
+## Eventos UNGS
+
+-Jueves 30/8/2018:
+DesafíoUNGS "Cudades Inteligentes"
+https://www.desafioungs.com/
 
