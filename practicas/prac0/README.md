@@ -4,7 +4,7 @@ Material de apoyo:
 
   - código de ejemplo de recorrido de matrices: [EjemploMatrices.java].
 
-  - además, todos los ejercicios obligatorios cuentan con un archivo de pruebas automáticas para correr desde Eclipse con [JUnit](junit.md).
+  - además, todos los ejercicios obligatorios cuentan con un archivo de pruebas automáticas para correr desde Eclipse con [JUnit](/junit).
 
 [EjemploMatrices.java]:  EjemploMatrices.java
 [TestAccumPertenecen.java]: ../test/TestAccumPertenecen.java
