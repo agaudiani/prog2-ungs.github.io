@@ -87,6 +87,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 ### Comisión 3
 #### Práctica 0
 - [Ej. Matrices](../codigo/matPrac0.java)
+- [Ej. Matrices con acumuladores booleanos](../codigo/mat1.java)
 #### Práctica 1
 - [Gráfico ej. 5d](../codigo/practica1-5d.xlsx) 
 - [Test de Primalidad](../codigo/esPrimo3.txt)
