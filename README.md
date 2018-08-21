@@ -39,7 +39,7 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 |  Evaluación           |   Fecha     |
 |  :---                   |    :---:        |
-|**Primer Parcial**       |     A definir   |
+|**Primer Parcial**       |     Jueves 30/08/2018   |
 |**Recuperatorio Primer Parcial:**    |     A definir       |
 |**Trabajo Práctico(entrega):**    |     A definir   |
 |**Segundo Parcial:**     |     A definir   |
