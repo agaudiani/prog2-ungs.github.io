@@ -131,7 +131,7 @@ https://visualgo.net/bn/sorting
 
 ## Eventos UNGS
 
--Jueves 30/8/2018:
+-Jueves 30/8/2018:::
 DesafíoUNGS "Cudades Inteligentes"
 https://www.desafioungs.com/
 
