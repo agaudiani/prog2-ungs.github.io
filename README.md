@@ -23,7 +23,7 @@ Siempre incluir en el asunto la comisión: Com1 / Com2 / Com3
 **Material**\\
 Todo el material de la cursada se puede encontrar en [http://bit.do/p2-mat](http://bit.do/p2-mat)
 
-## Régimen de cursada
+## Régimen de cursada:
 
 Las instancias de evaluación durante la cursada son:
 
