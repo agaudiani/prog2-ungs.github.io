@@ -70,7 +70,8 @@ Cada instancia de evaluación tiene su correspondiente recuperatorio.
 
 ## Soluciones vistas en clase
 ### Comisión 1
-
+#### Práctica 0
+- [Ej. Matrices con acumuladores booleanos](../codigo/Matrices.java)
 #### Práctica 2
 - [TAD Tupla<T1,T2>](../codigo/Tupla.java)
 - [TAD ListaCoordenadas](../codigo/ListaCoordenadas.java)
